@@ -3,7 +3,7 @@ SMOOTH-seq Data Analysis Pipeline
 
 Introduction
 ------
-We developed a novel third-generation sequencing platform-based single-cell whole-genome sequencing (scWGS) method named SMOOTH-seq (single-molecule real-time sequencing of long fragments amplified via transposon insertion). 
+We developed a novel **third-generation** sequencing platform-based **single-cell whole-genome sequencing** (scWGS) method named **SMOOTH-seq** (single-molecule real-time sequencing of long fragments amplified via transposon insertion). 
 
 This is an pipeline for SMOOTH-seq data analysis. 
 
